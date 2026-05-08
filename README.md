@@ -6,4 +6,4 @@ I primarily work with Python and continuously expand my knowledge by learning mo
 
 I actively document and share my projects, experiments, and learning journey on [GitHub](https://github.com/Falrlz) and [Kaggle](https://www.kaggle.com/falrlz). I am also interested in Medical AI research and aspire to publish scientific work in the future on [Scholar](https://scholar.google.com/citations?user=88qGQQEAAAAJ&hl=id).
 
-You can also learn more about me through [LinkedIn](https:/linkedin.com/in/falrlz).
+You can also learn more about me through [LinkedIn]([https:/linkedin.com/in/falrlz](https://www.linkedin.com/in/falrlz/)).
